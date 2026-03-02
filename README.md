@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/main/mybanner.png?v=1" width="100%" />
 </p>
 </div>
-<h2 align="left">Hi there 👋 <br>Reagan's here</h2>
+
 
 --- 
 <h2 align="left">About me</h2>
