@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">My Tech Stack</h3>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 --- 
 
-<h3 align="left">Socials</h3>
+<h2 align="left">📱 Socials</h2>
 
 
 ###
@@ -71,6 +71,7 @@
 ###
 ---
 ## 💡 My Quotes 
+
 <h3 align="center">"Encrypted Heart, Kindness to the Verified."</h3>
 
 ---
