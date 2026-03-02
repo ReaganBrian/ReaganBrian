@@ -11,7 +11,11 @@
 
 <img align="right" height="180" src="https://thumbs.dreamstime.com/b/adorable-orange-tabby-cat-lying-peacefully-laptop-keyboard-programming-interface-displayed-screen-behind-384010837.jpg"  />
 
-<p align="center">I am a student that majoring Information Technology at University of North Sumatera. I am passionate to learn about programming and software development. I also love to designing something or somehow i design UI for the apps.</p>
+<p align="center">I am a student that majoring 
+Information Technology at 
+University of North Sumatera. 
+I am passionate to learn about programming and software development. 
+I also love to designing something or somehow i design UI for the apps.</p>
 
 <h1 align="left"></h1>
 <h1 align="left"></h1>
