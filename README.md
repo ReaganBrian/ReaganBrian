@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
   <p align="center">
-  <img src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/main/mybanner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/main/mybanner.png?v=1" width="100%" />
 </p>
 </div>
 <h2 align="left">Hi there 👋 <br>Reagan's here</h2>
