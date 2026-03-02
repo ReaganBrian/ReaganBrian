@@ -2,6 +2,7 @@
 
 ###
 
+--- 
 <h2 align="left">About me</h2>
 
 ###
@@ -41,8 +42,17 @@
 </div>
 
 ###
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
+</picture>
+
+--- 
 
 <h3 align="left">Socials</h3>
+
 
 ###
 
@@ -57,10 +67,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
+---
+## 💡 My Quotes 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Encrypted Heart, Kindness to the Verified&fontSize=30&fontColor=ffffff"/> </p> <div align="center"> 
+
+---
+
+## 🔥 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ReaganBrian&limit=5&theme=tokyonight)
+
+---
