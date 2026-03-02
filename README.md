@@ -15,8 +15,10 @@
 <p align="center">I am a student that majoring Information Technology at University of North Sumatera. I am passionate to learn about programming and software development. I also love to designing something or somehow i design UI for the apps.</p>
 
 
-<h2 align="left">My Tech Stack</h2>
 
+<h1 align="left"></h1>
+<h1 align="left"></h1>
+<h2 align="left">My Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
