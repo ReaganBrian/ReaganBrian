@@ -1,9 +1,7 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-<h2 align="left">Hi there 👋 <br>Reagan's here</h2>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
+<h2 align="left">Hi there 👋 <br>Reagan's here</h2>
 
 --- 
 <h2 align="left">About me</h2>
@@ -73,16 +71,16 @@
 ###
 ---
 ## 💡 My Quotes 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:6a11cb,100:2575fc&height=200&text=Encrypted%20Heart,%20Kindness%20to%20the%20Verified&fontSize=30&fontColor=ffffff"/>
+<p align="center" style="background: linear-gradient(90deg, #141E30, #243B55); padding: 30px; margin: -10px 0 -10px 0; color: white; font-size: 22px; font-weight: 500;">
+  "Encrypted Heart, Kindness to the Verified."
 </p>
 
 ---
 
 ## 🔥 Top Contributed Repo
+
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ReaganBrian&limit=5&theme=tokyonight)
 
----
 
 
 <div>
