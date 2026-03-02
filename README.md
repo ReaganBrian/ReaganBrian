@@ -5,16 +5,13 @@
 </p>
 </div>
 
+---
 
---- 
 <h2 align="left">About me</h2>
 
 <img align="right" height="180" src="https://thumbs.dreamstime.com/b/adorable-orange-tabby-cat-lying-peacefully-laptop-keyboard-programming-interface-displayed-screen-behind-384010837.jpg"  />
 
-
 <p align="center">I am a student that majoring Information Technology at University of North Sumatera. I am passionate to learn about programming and software development. I also love to designing something or somehow i design UI for the apps.</p>
-
-
 
 <h1 align="left"></h1>
 <h1 align="left"></h1>
@@ -43,17 +40,18 @@
 </div>
 
 ###
+
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReaganBrian/ReaganBrian/output/pacman-contribution-graph.svg">
 </picture>
 
---- 
+---
 
 <h2 align="left">📱 Socials</h2>
-
 
 ###
 
@@ -69,8 +67,10 @@
 ###
 
 ###
+
 ---
-## 💡 My Quotes 
+
+## 💡 My Quotes
 
 <h3 align="center">"Encrypted Heart, Kindness to the Verified."</h3>
 
@@ -79,8 +79,6 @@
 ## 🔥 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ReaganBrian&limit=5&theme=tokyonight)
-
-
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
