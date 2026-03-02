@@ -71,9 +71,7 @@
 ###
 ---
 ## 💡 My Quotes 
-<p align="center" style="background: linear-gradient(90deg, #141E30, #243B55); padding: 30px; margin: -10px 0 -10px 0; color: white; font-size: 22px; font-weight: 500;">
-  "Encrypted Heart, Kindness to the Verified."
-</p>
+<h3 align="center">"Encrypted Heart, Kindness to the Verified."</h3>
 
 ---
 
